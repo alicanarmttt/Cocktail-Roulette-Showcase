@@ -40,10 +40,10 @@ Modern mobil mimari prensipleriyle (Monorepo) geliştirilen uygulama, **Render (
 ## 📱 Uygulama Önizlemesi
 
 <div align="center">
-  <img src="Cocktail-App/docs/home.jpeg" width="22%" />
-  <img src="Cocktail-App/docs/Roulette.jpeg" width="22%" />
-  <img src="Cocktail-App/docs/AssistantScreen.jpeg" width="22%" />
-  <img src="Cocktail-App/docs/CocktailDetailScreen.jpeg" width="22%" />
+  <img src="docs/home.jpeg" width="22%" />
+  <img src="docs/Roulette.jpeg" width="22%" />
+  <img src="docs/AssistantScreen.jpeg" width="22%" />
+  <img src="docs/CocktailDetailScreen.jpeg" width="22%" />
 </div>
 
 <br>
@@ -52,13 +52,13 @@ Modern mobil mimari prensipleriyle (Monorepo) geliştirilen uygulama, **Render (
   <summary><b>📸 Detaylı Ekran Görüntüleri (Galeri)</b></summary>
   <br>
   <div align="center">
-      <img src="Cocktail-App/docs/IngredientsModal.jpeg" width="22%" />
-      <img src="Cocktail-App/docs/IngredientAlternativeModal.jpeg" width="22%" />
-      <img src="Cocktail-App/docs/RouletteMod.jpeg" width="22%" />
-      <img src="Cocktail-App/docs/AssistantResult.jpeg" width="22%" />
+      <img src="docs/IngredientsModal.jpeg" width="22%" />
+      <img src="docs/IngredientAlternativeModal.jpeg" width="22%" />
+      <img src="docs/RouletteMod.jpeg" width="22%" />
+      <img src="docs/AssistantResult.jpeg" width="22%" />
       <br><br>
-      <img src="Cocktail-App/docs/ProfileScreen.jpeg" width="22%" />
-      <img src="Cocktail-App/docs/FavoriteScreen.jpeg" width="22%" />
+      <img src="docs/ProfileScreen.jpeg" width="22%" />
+      <img src="docs/FavoriteScreen.jpeg" width="22%" />
   </div>
 </details>
 
