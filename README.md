@@ -1,7 +1,7 @@
 # 🍹 Cocktail Roulette: The Smart Barman & Party Assistant
 
 <div align="center">
-  <img src="Cocktail-App/docs/home.jpeg" width="120" style="border-radius: 20px" />
+  <img src="docs/banner.jpeg" height="300" style="border-radius: 20px" />
   <br><br>
 
   <a href="https://reactnative.dev/">
